@@ -1,0 +1,9 @@
+F:\RBM\VehicleSpeedCalculationApp\VehicleSpeedCalculationApp\bin\Debug\VehicleSpeedCalculationApp.exe.config
+F:\RBM\VehicleSpeedCalculationApp\VehicleSpeedCalculationApp\obj\Debug\VehicleSpeedCalculationApp.csprojResolveAssemblyReference.cache
+F:\RBM\VehicleSpeedCalculationApp\VehicleSpeedCalculationApp\obj\Debug\VehicleSpeedCalculationApp.VehicleSpeedCalculationUI.resources
+F:\RBM\VehicleSpeedCalculationApp\VehicleSpeedCalculationApp\obj\Debug\VehicleSpeedCalculationApp.Properties.Resources.resources
+F:\RBM\VehicleSpeedCalculationApp\VehicleSpeedCalculationApp\obj\Debug\VehicleSpeedCalculationApp.csproj.GenerateResource.Cache
+F:\RBM\VehicleSpeedCalculationApp\VehicleSpeedCalculationApp\bin\Debug\VehicleSpeedCalculationApp.exe
+F:\RBM\VehicleSpeedCalculationApp\VehicleSpeedCalculationApp\bin\Debug\VehicleSpeedCalculationApp.pdb
+F:\RBM\VehicleSpeedCalculationApp\VehicleSpeedCalculationApp\obj\Debug\VehicleSpeedCalculationApp.exe
+F:\RBM\VehicleSpeedCalculationApp\VehicleSpeedCalculationApp\obj\Debug\VehicleSpeedCalculationApp.pdb

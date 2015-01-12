@@ -1,0 +1,9 @@
+F:\RBM\GradingApp\GradingApp\bin\Debug\GradingApp.exe.config
+F:\RBM\GradingApp\GradingApp\bin\Debug\GradingApp.exe
+F:\RBM\GradingApp\GradingApp\bin\Debug\GradingApp.pdb
+F:\RBM\GradingApp\GradingApp\obj\Debug\GradingApp.csprojResolveAssemblyReference.cache
+F:\RBM\GradingApp\GradingApp\obj\Debug\GradingApp.Form1.resources
+F:\RBM\GradingApp\GradingApp\obj\Debug\GradingApp.Properties.Resources.resources
+F:\RBM\GradingApp\GradingApp\obj\Debug\GradingApp.csproj.GenerateResource.Cache
+F:\RBM\GradingApp\GradingApp\obj\Debug\GradingApp.exe
+F:\RBM\GradingApp\GradingApp\obj\Debug\GradingApp.pdb

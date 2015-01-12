@@ -1,0 +1,12 @@
+F:\RBM\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+F:\RBM\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csprojResolveAssemblyReference.cache
+F:\RBM\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.Form1.resources
+F:\RBM\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.Properties.Resources.resources
+F:\RBM\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.GenerateResource.Cache
+F:\RBM\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe
+F:\RBM\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.pdb
+F:\RBM\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
+F:\RBM\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb
+J:\RBM\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+J:\RBM\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
+J:\RBM\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb

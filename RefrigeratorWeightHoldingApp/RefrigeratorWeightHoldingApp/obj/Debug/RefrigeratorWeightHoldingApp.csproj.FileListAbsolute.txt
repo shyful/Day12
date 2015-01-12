@@ -1,0 +1,9 @@
+H:\FTFL\ASP.NET APP\RefrigeratorWeightHoldingApp\RefrigeratorWeightHoldingApp\bin\Debug\RefrigeratorWeightHoldingApp.exe.config
+H:\FTFL\ASP.NET APP\RefrigeratorWeightHoldingApp\RefrigeratorWeightHoldingApp\bin\Debug\RefrigeratorWeightHoldingApp.exe
+H:\FTFL\ASP.NET APP\RefrigeratorWeightHoldingApp\RefrigeratorWeightHoldingApp\bin\Debug\RefrigeratorWeightHoldingApp.pdb
+H:\FTFL\ASP.NET APP\RefrigeratorWeightHoldingApp\RefrigeratorWeightHoldingApp\obj\Debug\RefrigeratorWeightHoldingApp.csprojResolveAssemblyReference.cache
+H:\FTFL\ASP.NET APP\RefrigeratorWeightHoldingApp\RefrigeratorWeightHoldingApp\obj\Debug\RefrigeratorWeightHoldingApp.Form1.resources
+H:\FTFL\ASP.NET APP\RefrigeratorWeightHoldingApp\RefrigeratorWeightHoldingApp\obj\Debug\RefrigeratorWeightHoldingApp.Properties.Resources.resources
+H:\FTFL\ASP.NET APP\RefrigeratorWeightHoldingApp\RefrigeratorWeightHoldingApp\obj\Debug\RefrigeratorWeightHoldingApp.csproj.GenerateResource.Cache
+H:\FTFL\ASP.NET APP\RefrigeratorWeightHoldingApp\RefrigeratorWeightHoldingApp\obj\Debug\RefrigeratorWeightHoldingApp.exe
+H:\FTFL\ASP.NET APP\RefrigeratorWeightHoldingApp\RefrigeratorWeightHoldingApp\obj\Debug\RefrigeratorWeightHoldingApp.pdb
